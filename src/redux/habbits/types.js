@@ -1,0 +1,2 @@
+export const CREATE_HABBIT = 'CREATE_HABBIT';
+export const DELETE_HABBIT = 'DELETE_HABBIT';
